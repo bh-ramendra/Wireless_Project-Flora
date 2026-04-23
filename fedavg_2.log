@@ -1,0 +1,24 @@
+/DATA/ramendra_2511ai39/miniconda3/envs/flora/lib/python3.10/site-packages/huggingface_hub/file_download.py:949: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+============================================================
+  Method : FEDAVG
+  Clients: 10  |  Rounds: 20
+  Alpha  : 0.5  |  Rank: N/A
+  Device : cuda
+============================================================
+
+Loading SST-2 dataset...
+  Train samples per client: min=392, max=37194, total=67349
+  Trainable params: 109,483,778
+  Est. comm cost/round: 4176.47 MB
+
+Round   1/20 | Acc: 0.5092 | Loss: 0.7106 | Comm: 4176.5 MB | Time: 1374.6s
+Round   2/20 | Acc: 0.4908 | Loss: 0.7133 | Comm: 8352.9 MB | Time: 585.3s
+Round   3/20 | Acc: 0.5092 | Loss: 0.7845 | Comm: 12529.4 MB | Time: 2960.1s
+Round   4/20 | Acc: 0.4908 | Loss: 0.7551 | Comm: 16705.9 MB | Time: 1626.9s
+Round   5/20 | Acc: 0.5092 | Loss: 0.7008 | Comm: 20882.4 MB | Time: 1277.2s
+Round   6/20 | Acc: 0.4908 | Loss: 1.0615 | Comm: 25058.8 MB | Time: 1058.5s
+Round   7/20 | Acc: 0.5092 | Loss: 0.7510 | Comm: 29235.3 MB | Time: 620.5s
+Round   8/20 | Acc: 0.5092 | Loss: 0.7382 | Comm: 33411.8 MB | Time: 1374.4s
+Round   9/20 | Acc: 0.5092 | Loss: 0.7432 | Comm: 37588.3 MB | Time: 1708.2s

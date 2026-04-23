@@ -1,0 +1,12 @@
+method: fedsb
+num_clients: 10
+num_rounds: 20
+client_fraction: 0.5
+local_epochs: 5
+batch_size: 32
+learning_rate: 0.01
+dirichlet_alpha: 0.5
+lora_rank: 8
+lora_alpha: 16
+seed: 42
+results_dir: results
