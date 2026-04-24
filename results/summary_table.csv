@@ -1,3 +1,4 @@
 Method,Dataset,#Clients,Alpha,#Rounds,Test Accuracy (%),Best Acc (%),Convergence Round,Comm. Cost (MB),Trainable Params,Category Metric (LoRA param eff.)
+FedAvg (Baseline),SST-2,10.0,0.5,20,50.92,50.92,N/A,83529.5,"109,483,778","109,483,778"
 Fed-SB,SST-2,10.0,0.5,20,84.29,88.88,1,1.2,"3,074","3,074"
 FLoRA,SST-2,10.0,0.5,20,91.97,91.97,1,226.2,"296,450","296,450"

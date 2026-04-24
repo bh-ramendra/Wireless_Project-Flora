@@ -22,3 +22,24 @@ Round   6/20 | Acc: 0.4908 | Loss: 1.0615 | Comm: 25058.8 MB | Time: 1058.5s
 Round   7/20 | Acc: 0.5092 | Loss: 0.7510 | Comm: 29235.3 MB | Time: 620.5s
 Round   8/20 | Acc: 0.5092 | Loss: 0.7382 | Comm: 33411.8 MB | Time: 1374.4s
 Round   9/20 | Acc: 0.5092 | Loss: 0.7432 | Comm: 37588.3 MB | Time: 1708.2s
+Round  10/20 | Acc: 0.4908 | Loss: 0.7630 | Comm: 41764.7 MB | Time: 430.1s
+Round  11/20 | Acc: 0.4908 | Loss: 0.7397 | Comm: 45941.2 MB | Time: 761.8s
+Round  12/20 | Acc: 0.5092 | Loss: 0.7522 | Comm: 50117.7 MB | Time: 1515.3s
+Round  13/20 | Acc: 0.4908 | Loss: 1.2379 | Comm: 54294.2 MB | Time: 576.7s
+Round  14/20 | Acc: 0.5092 | Loss: 0.7078 | Comm: 58470.6 MB | Time: 1870.1s
+Round  15/20 | Acc: 0.5092 | Loss: 0.7252 | Comm: 62647.1 MB | Time: 1611.2s
+Round  16/20 | Acc: 0.5092 | Loss: 0.7579 | Comm: 66823.6 MB | Time: 1805.8s
+Round  17/20 | Acc: 0.4908 | Loss: 0.7824 | Comm: 71000.1 MB | Time: 779.8s
+Round  18/20 | Acc: 0.5092 | Loss: 0.7206 | Comm: 75176.5 MB | Time: 1708.8s
+Round  19/20 | Acc: 0.5092 | Loss: 0.7193 | Comm: 79353.0 MB | Time: 1849.3s
+Round  20/20 | Acc: 0.5092 | Loss: 0.7873 | Comm: 83529.5 MB | Time: 1453.0s
+
+Results saved → resultsx/fedavg_alpha0.5_clients10.csv
+
+──────────────────────────────────────────────────
+  Best Accuracy     : 0.5092
+  Final Accuracy    : 0.5092
+  Convergence Round : None
+  Total Comm Cost   : 83529.5 MB
+──────────────────────────────────────────────────
+
